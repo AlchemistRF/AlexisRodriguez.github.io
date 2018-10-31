@@ -40,4 +40,4 @@
   </body>
   </html>
 <p>Hello this is my first website. Welcome!</p>
-<p><b>Forver is a mighty long time.<br>2 sides fighting to conquer</b></p>
+<p><b>Foreva is a mighty long time.<br>2 sides fighting to conquer</b></p>
