@@ -16,7 +16,7 @@
 <p style="position:absolute; top:300px; left200px; color:#O77B7; font-size:10pt; font-family:Arial"> LeftUpDown is based loosely on the konami code!
 </div>
 
- <p><a href= "leftupdown.html.jpeg">Second Page</a><p>
+ <p><a href= "Alchemist_CO..pdf">Alchemist Zine</a><p>
 
 </body>
 </html>
