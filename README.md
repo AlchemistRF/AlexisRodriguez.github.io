@@ -1,23 +1,18 @@
 <!DOCTYPE html>
 <html>
-  background-image: url('giphy.gif');
-background-size: cover;
+<body>
 
-<head>
-<title>Alchemist/>
-</title>
-</head>
+<h1><h1><i>AlchemistDown</i></h1>
+<div>
 
-<body bgcolor="66ff66">
+<p>Thank you for visiting the website.~Alchemist .</p>
 
-  
+<body background="giphy.gif">
 
 
-<p style="position:absolute; top:300px; left200px; color:#O77B7; font-size:10pt; font-family:Arial"> LeftUpDown is based loosely on the konami code!
-</div>
 
- <p><a href= "Alchemist_CO..pdf">Alchemist Zine</a><p>
 
-</body>
+<h3><a href=Alchemist_CO.>Alchemist Zine</a></h3>
+
+
 </html>
-
