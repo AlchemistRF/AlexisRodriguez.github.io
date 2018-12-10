@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+  background-image: url('giphy.gif');
+background-size: cover;
 
 <head>
 <title>Alchemist/>
